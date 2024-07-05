@@ -1,0 +1,10 @@
+#div-add-item{
+    margin-top: 40px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+#table-remaining,#table-completed{
+    margin-top: 50px;
+    border: 1px solid black;
+}
